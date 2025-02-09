@@ -22,7 +22,7 @@ Clona el repositorio o descarga el proyecto:
 bash
 Copiar
 Editar
-git clone https://github.com/lygarmo/ConexionBBDD.git
+git clone https://github.com/lygarmo/ConexionBBDD/tree/main
 Abre el proyecto en tu IDE favorito.
 
 Asegúrate de tener el driver JDBC de MySQL en tu proyecto.
